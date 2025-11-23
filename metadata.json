@@ -1,0 +1,5 @@
+{
+  "name": "迷雾迷宫 (Fog Maze)",
+  "description": "一款无限关卡的迷宫游戏，带有战争迷雾机制。在随机生成的迷宫中探索，视野仅限于你周围的区域。",
+  "requestFramePermissions": []
+}
