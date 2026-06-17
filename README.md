@@ -9,7 +9,6 @@
 **在线演示**: [https://veyvin.com/migong](https://veyvin.com/migong)
 
 ![迷雾迷宫](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-在线演示: https://veyvin.com/migong
 ## 特色功能
 
 - **迷雾探索**: 视野受限，需要记住走过的路径
